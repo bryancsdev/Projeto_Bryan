@@ -5,16 +5,28 @@ body {
   background-size: cover;
 }
 
+body * {
+  font-family: "Inter", sans-serif;
+  color: #ffffff;
+}
+
 #container {
   border: 1px solid red;
   width: 360px;
   height: 712px;
   margin: auto;
 }
+#profile {
+  text-align: center;
+}
 
 #profile img {
   width: 112px;
   height: 112px;
   margin: auto;
-  display: block;
+}
+
+#profile p {
+  font-weight: 500;
+  line-height: 24px;
 }
