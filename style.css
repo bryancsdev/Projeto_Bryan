@@ -4,3 +4,10 @@ body {
   background-position: top center;
   background-size: cover;
 }
+
+#container {
+  border: 1px solid red;
+  width: 360px;
+  height: 712px;
+  margin: auto;
+}
