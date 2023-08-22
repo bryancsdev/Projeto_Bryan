@@ -11,3 +11,10 @@ body {
   height: 712px;
   margin: auto;
 }
+
+#profile img {
+  width: 112px;
+  height: 112px;
+  margin: auto;
+  display: block;
+}
